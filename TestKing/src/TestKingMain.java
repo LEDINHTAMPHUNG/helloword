@@ -16,6 +16,7 @@ public class TestKingMain {
 		
 		TestKingMain testKingMain=new TestKingMain();
 		testKingMain.a();
+		System.out.println("phungle.");
 		//le dinh tam phung
 	}
 
