@@ -16,6 +16,7 @@ public class TestKingMain {
 		
 		TestKingMain testKingMain=new TestKingMain();
 		testKingMain.a();
+		//le dinh tam phung
 	}
 
 }
